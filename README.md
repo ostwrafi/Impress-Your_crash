@@ -1,11 +1,11 @@
 # Impress-Your-Crash
 
-A fun interactive web project to ask someone to be your best friend!
+A playful interactive web project to ask someone a special question!
 
 ## Features
-- Playful question: "Do you Love me Broo? Will you be my Best Friend?"
-- Animated GIFs for engagement
-- "Yes" button leads to a celebratory page
+- Romantic question: "Do you Love me? Will you marry me?"
+- Animated GIF for engagement
+- "Yes" button leads to a celebratory page (`yes.html`)
 - "No" button playfully moves away when hovered or clicked
 - Responsive and colorful design
 
